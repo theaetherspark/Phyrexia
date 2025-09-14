@@ -1,0 +1,7 @@
+name: "phyrexia"
+displayName: "Phyrexia"
+author: "lurie"
+description: "WIP planet mod."
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
